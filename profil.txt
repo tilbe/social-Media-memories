@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Asli Erkoc",
+    "imgge": "https://loremflickr.com/640/481/people",
+    "post": "https://loremflickr.com/640/720/food",
+    "id": "1"
+  },
+  {
+    "title": "Zeynep Tugrul",
+    "imgge": "https://loremflickr.com/640/454/people",
+    "post": "https://loremflickr.com/640/630/food",
+    "id": "2"
+  },
+  {
+    "title": "Ayse",
+    "imgge": "https://loremflickr.com/640/482/people",
+    "post": "https://loremflickr.com/640/640/food",
+    "id": "3"
+  },
+  {
+    "title": "Ecem Hatice",
+    "imgge": "https://loremflickr.com/640/485/people",
+    "post": "https://loremflickr.com/640/610/food",
+    "id": "4"
+  },
+  {
+    "title": "Bedirhan Lütfü",
+    "imgge": "https://loremflickr.com/640/487/people",
+    "post": "https://loremflickr.com/640/645/food",
+    "id": "5"
+  },
+  {
+    "title": "Bahar Özlem",
+    "imgge": "https://loremflickr.com/640/486/people",
+    "post": "https://loremflickr.com/640/621/food",
+    "id": "6"
+  },
+  {
+    "title": "Burak Tatkan",
+    "imgge": "https://loremflickr.com/640/440/people",
+    "post": "https://loremflickr.com/640/670/food",
+    "id": "7"
+  },
+  {
+    "title": "Yasin Şükrü",
+    "imgge": "https://loremflickr.com/640/480/people",
+    "post": "https://loremflickr.com/640/611/food",
+    "id": "8"
+  },
+  {
+    "title": "Memet Ali",
+    "imgge": "https://loremflickr.com/640/430/people",
+    "post": "https://loremflickr.com/640/622/food",
+    "id": "9"
+  },
+  {
+    "title": "Hanife Duygu",
+    "imgge": "https://loremflickr.com/640/442/people",
+    "post": "https://loremflickr.com/640/688/food",
+    "id": "10"
+  },
+  {
+    "title": "Murat Kaan",
+    "imgge": "https://loremflickr.com/640/414/people",
+    "post": "https://loremflickr.com/640/628/food",
+    "id": "11"
+  },
+  {
+    "title": "Elif Feyza",
+    "imgge": "https://loremflickr.com/640/449/people",
+    "post": "https://loremflickr.com/640/661/food",
+    "id": "12"
+  },
+  {
+    "title": "Osman Yasin",
+    "imgge": "https://loremflickr.com/640/419/people",
+    "post": "https://loremflickr.com/640/626/food",
+    "id": "13"
+  },
+  {
+    "title": "title 14",
+    "imgge": "https://loremflickr.com/640/480/people",
+    "post": "https://loremflickr.com/640/649/food",
+    "id": "14"
+  },
+  {
+    "title": "title 15",
+    "imgge": "https://loremflickr.com/640/401/people",
+    "post": "https://loremflickr.com/640/683/food",
+    "id": "15"
+  },
+  {
+    "title": "title 16",
+    "imgge": "https://loremflickr.com/640/421/people",
+    "post": "https://loremflickr.com/640/677/food",
+    "id": "16"
+  },
+  {
+    "title": "title 17",
+    "imgge": "https://loremflickr.com/640/416/people",
+    "post": "https://loremflickr.com/640/654/food",
+    "id": "17"
+  },
+  {
+    "title": "title 18",
+    "imgge": "https://loremflickr.com/640/415/people",
+    "post": "https://loremflickr.com/640/680/food",
+    "id": "18"
+  },
+  {
+    "title": "title 19",
+    "imgge": "https://loremflickr.com/640/480/people",
+    "post": "https://loremflickr.com/640/632/food",
+    "id": "19"
+  },
+  {
+    "title": "title 20",
+    "imgge": "https://loremflickr.com/540/418/people",
+    "post": "https://loremflickr.com/640/698/people",
+    "id": "20" 
+    }
+]

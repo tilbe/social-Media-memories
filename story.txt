@@ -1,0 +1,107 @@
+[
+ {
+  "title": "Ali Erkoc",
+  "imgge": "Caffe Img kopyası/ana-page.webp",
+  "id": "1"
+ },
+ {
+  "title": "Tilbe Tugrul",
+  "imgge": "https://loremflickr.com/640/454/people",
+  "id": "2"
+ },
+ {
+  "title": "Zeynep Tugrul",
+  "imgge": "https://loremflickr.com/640/482/people",
+  "id": "3"
+ },
+ {
+  "title": "Zilan Karadag",
+  "imgge": "https://loremflickr.com/640/485/people",
+  "id": "4"
+ },
+ {
+  "title": "Tom Maerk ",
+  "imgge": "https://loremflickr.com/640/487/people",
+  "id": "5"
+ },
+ {
+  "title": "Kaan Koc",
+  "imgge": "https://loremflickr.com/640/486/people",
+  "id": "6"
+ },
+ {
+  "title": "Elif Etga",
+  "imgge": "https://loremflickr.com/640/440/people",
+  "id": "7"
+ },
+ {
+  "title": "Fazıl Erem",
+  "imgge": "https://loremflickr.com/640/480/people",
+  "id": "8"
+ },
+ {
+  "title": "Nazım Orhun",
+  "imgge": "https://loremflickr.com/640/430/people",
+  "id": "9"
+ },
+ {
+  "title": "Burçin Kübra",
+  "imgge": "https://loremflickr.com/640/442/people",
+  "id": "10"
+ },
+ {
+  "title": "Taylan Remzi",
+  "imgge": "https://loremflickr.com/640/414/people",
+  "id": "11"
+ },
+ {
+  "title": "Buse Gizem",
+  "imgge": "https://loremflickr.com/640/449/people",
+  "id": "12"
+ },
+ {
+  "title": "Ahmet Yasin",
+  "imgge": "https://loremflickr.com/640/419/people",
+  "id": "13"
+ },
+ {
+  "title": "Melike Dilara",
+  "imgge": "https://loremflickr.com/640/480/people",
+  "id": "14"
+ },
+ {
+  "title": "Selma Simge",
+  "imgge": "https://loremflickr.com/640/401/people",
+  "id": "15"
+ },
+ {
+  "title": "Özer Seçkin",
+  "imgge": "https://loremflickr.com/640/421/people",
+  "id": "16"
+ },
+ {
+  "title": "Afra Selcen",
+  "imgge": "https://loremflickr.com/640/416/people",
+  "id": "17"
+ },
+ {
+  "title": "Aydın Mert",
+  "imgge": "https://loremflickr.com/640/415/people",
+  "id": "18"
+ },
+ {
+  "title": "Ece Pınar",
+  "imgge": "https://loremflickr.com/640/480/people",
+  "id": "19"
+ },
+ {
+  "title": "Seher İrem",
+  "imgge": "https://loremflickr.com/540/418/people",
+  "id": "20"
+ },
+ {
+  "title": "Hilal Ebru",
+  "imgge": "https://loremflickr.com/640/481/people",
+  "id": "20"
+ }
+]

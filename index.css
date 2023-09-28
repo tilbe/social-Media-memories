@@ -1,0 +1,663 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@1&family=Oxygen:wght@700&family=Teko:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@1&family=Montserrat:wght@300&family=Oxygen:wght@700&family=Teko:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@1&family=Montserrat:wght@300;400;600&family=Oxygen:wght@700&family=Teko:wght@300&display=swap');
+
+.body {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #e1e0e0;
+
+}
+
+.page1 {
+    display: block;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    margin: 18px;
+}
+
+.header h3 {
+    position: absolute;
+    left: 55px;
+    top: 10px;
+    margin: 20px 0px;
+    color: linear-gradient(to right, #e74c3c, #3498db);
+
+
+}
+
+
+.header .search {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    position: absolute;
+    top: 10%;
+
+
+
+}
+
+.header .search a {
+    display: flex;
+    align-items: center;
+    height: 35px;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    color: #000;
+    /* Yazı rengi */
+    margin: 8px;
+    padding: 8px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+
+
+
+}
+
+
+
+.header .search a i {
+    margin-right: 5px;
+    /* Sembole sağdan boşluk bırakmak için */
+    font-size: 17px;
+    font-weight: 0.5px;
+    /* Sembolün boyutu */
+}
+
+.header .search a i:hover {
+    background: linear-gradient(to right, #ffa59b, #d0a3ff); /* İki renkli geçişin tersi */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+.header .more {
+
+    width: 50%;
+    padding: 18px;
+    position: absolute;
+    top: 130%;
+    left: -22.5%;
+}
+
+.header .more a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.header .more a i {
+    padding: 8px;
+
+}
+
+.header .more a i:hover {
+    background-color: #DDDDDD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    width: 20px;
+    border-radius: 8px;
+    color: #61677A;
+
+}
+
+.scrollable-container {
+    overflow: hidden;
+    position: relative;
+    width: 55%;
+    left: 5%;
+    margin: 5% auto;
+    /* İçeriği yatayda ortala */
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.allstory {
+    margin-bottom: 320px;
+    display: flex;
+    overflow-x: auto;
+    /* Yatay kaydırma çubuğunu göstermek için */
+    white-space: nowrap;
+}
+
+
+
+.allstory .story {
+    padding: 18px;
+}
+
+.allstory .story img {
+    margin-left: 20%;
+    height: 55px;
+    width: 60px;
+    border-radius: 50%;
+
+
+}
+
+.allstory .story img:hover {
+    cursor: pointer;
+    border: 2px solid #B9B4C7;
+}
+
+.postArea .postContainer {
+    position: absolute;
+    left: 30%;
+    top: 30%;
+
+}
+
+.post {
+    border: 1px solid rgb(147, 147, 147);
+    margin: 0px;
+    /* Daha iyi boşluklar için "position" yerine "margin" kullanıyorum */
+    padding: 20px;
+    width: 80%;
+    height: 70%;
+    /* Genişlik ayarı ekledim */
+    max-width: 800px;
+    /* Maksimum genişlik ayarı ekledim */
+    margin: 30px;
+    /* Merkezlemek için margin kullanıyorum */
+    background: linear-gradient(to bottom, #ffffff, #fdfbfc);
+    border-radius: 8px;
+    box-shadow: inset 6px 6px 20px 0 rgba(218, 218, 218, 0.5),
+        rgba(168, 168, 168, 0.4) 0px 4px 10px, rgba(104, 139, 255, 0.1) 0px 8px 4px, rgba(102, 111, 128, 0.4) 0px 16px 30px;
+
+
+
+
+}
+
+
+.postTop {
+    position: relative;
+
+}
+
+.postTop .postInfo {
+    display: flex;
+    align-items: center;
+}
+
+.postTop .postInfo .profilimg img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0px;
+    padding: px;
+}
+
+.postTop .postInfo .postname {
+    position: absolute;
+    left: 14%;
+}
+
+.postTop .postimg img {
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    padding-top: 10px;
+
+}
+
+.postBottom a i {
+
+    padding: 0.1%;
+    margin: 2%;
+}
+
+.postBottom a i:hover {
+    color: #61677A;
+}
+
+.commentarea {
+    width: 100%;
+    position: relative;
+    outline: none;
+    display: none;
+}
+
+.commentarea .messaj {
+    width: 90%;
+    height: 1%;
+    outline: none;
+  
+}
+
+.commentarea a {
+    position: absolute;
+    right: -1%;
+    border: 2px solid rgb(213, 213, 213);
+    padding: 6px 5px;
+    border-radius: 20%;
+
+
+}
+
+.commentarea a:hover {
+    color: #ffff;
+    background-color: rgb(213, 213, 213);
+    cursor: pointer;
+
+}
+
+
+.post .messages-container {
+    display: flex;
+    position: relative;
+
+
+}
+
+.post .messages-container .message {
+    border-bottom: 1px solid black;
+
+    width: 100%;
+}
+
+.tursh {
+    position: absolute;
+    top: 20%;
+    left: 90%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 4px;
+
+}
+
+.tursh:hover {
+    color: rgb(151, 11, 11);
+    cursor: pointer;
+}
+
+.str {
+    background-color: #dedede;
+    color: #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Dikey olarak merkezlemek için */
+    justify-content: center;
+    /* Yatay olarak merkezlemek için */
+    padding: 30px;
+
+}
+
+.str .img1 img {
+    max-height: 550px;
+    padding: 2px;
+}
+
+.str .top {
+    width: 150%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+
+
+.str .top .close:hover {
+    cursor: pointer;
+    color: brown;
+    font-size: large;
+}
+
+
+.page2 {
+    display: none;
+}
+
+
+.safariPage {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    position: absolute;
+    left: 20%;
+
+
+
+}
+
+
+
+.gallery-item img {
+    height: 99%;
+    width: 99%;
+    /* Adjust the width as needed */
+}
+
+
+.safariPage .more button {
+    position: absolute;
+    left: 40%;
+    top: 100%;
+    width: 8%;
+    margin: 20px 0px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: #b1b1b1;
+
+}
+
+.safariPage .more button:hover {
+    cursor: pointer;
+    color: #ffff;
+}
+
+
+.searchPage {
+    padding: 20px;
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    top: 13%;
+    left: 15%;
+    display: none;
+    border-radius: 10px;
+    box-shadow: inset 3px 2px 5px 0 rgba(255, 255, 255, .5), rgba(104, 139, 255, 0.1) 7px 3px 10px, rgba(0, 0, 0, 0.1) 7px 5px 10px
+}
+
+.searchPage .Searchxmark {
+    position: absolute;
+    left: 90%;
+    top: 2.5%
+}
+
+.searchInput {
+    width: 80%;
+    background-color: #e6e6e6;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.searchButton i:hover{
+ background: linear-gradient(to right, #e74c3c, #3498db); /* İki renkli geçişin tersi */
+
+}
+.searchButton {
+    width: 15%;
+    background-color: #e1e0e0;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+.messagePage {
+    display: none;
+    padding: 20px;
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    top: 13%;
+    left: 15%;
+    border-radius: 10px;
+    box-shadow: inset 3px 2px 5px 0 rgba(255, 255, 255, .5), rgba(104, 139, 255, 0.1) 7px 3px 10px, rgba(0, 0, 0, 0.1) 7px 5px 10px;
+    overflow: hidden;
+    overflow: scroll;
+}
+
+
+
+.message {
+    display: flex;
+    flex-direction: column;
+    padding: 14px;
+    border-bottom: 1px solid rgb(201, 201, 201);
+
+
+
+}
+.message:hover{
+    cursor: pointer;
+    background-color: #cccccc;
+}
+
+.message p {
+    font-size: 16px;
+
+
+}
+
+
+
+.xmarkMess {
+    padding-left: 95%;
+    margin-bottom: 20px;
+
+
+}
+
+.messagePage .xmarkMess:hover {
+    color: brown;
+    cursor: pointer;
+}
+
+
+
+.messagePage .messageImg {
+
+    left: 5%;
+    margin-top: 13%;
+    height: 50px;
+    width: 18%;
+    border-radius: 50%;
+
+
+}
+
+.messagePage .messageInfo {
+    display: flex;
+    font-size: 12px;
+
+
+}
+
+.messagePage .messageInfo p {
+    margin-left: 5px;
+    margin-top: 14px;
+}
+
+.messagePage .message .mesinfo {
+
+    left: 6%;
+    width: 100%;
+    top: 24%;
+}
+
+
+.messagePage .message .text {
+
+    left: 22%;
+    top: 30%;
+    font-size: 10px;
+    padding: 0px 8px;
+}
+
+.messagePage .message .name {
+    margin-left: 3%;
+   
+    font-size: 16px;
+    padding: 0px 10px;
+
+
+}
+
+
+.notificationPage {
+    display: none;
+}
+
+.allNotification {
+    padding: 20px;
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    top: 13%;
+    left: 15%;
+    border-radius: 10px;
+    box-shadow: inset 3px 2px 5px 0 rgba(255, 255, 255, .5), rgba(104, 139, 255, 0.1) 7px 3px 10px, rgba(0, 0, 0, 0.1) 7px 5px 10px
+}
+
+.notificationPage .forFollow {
+    display: flex;
+
+}
+
+.notificationPage .forFollow .followInfo {
+    position: absolute;
+    left: 26%;
+    top: 4%;
+    font-family: 'Montserrat', sans-serif;
+    ;
+    padding: 0px;
+    margin: 0px;
+}
+
+.notificationPage .forFollow .followInfo h4 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.notificationPage .forFollow .followInfo p {
+    padding: 0px;
+    margin: 0px;
+}
+
+.notificationPage .forFollow .followfot img {
+    height: 55px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.notificationPage .forFollow .followfot .fotto2 {
+    position: absolute;
+    left: 1%;
+    top: 3%;
+}
+
+.notificationPage .forLike {
+    display: flex;
+    margin-top: 2%;
+
+}
+
+
+.notificationPage .forLike p {
+    position: absolute;
+    left: 26%;
+
+}
+
+.notificationPage .forLike img {
+    height: 55px;
+    width: 60px;
+    border-radius: 50%;
+
+}
+
+
+.xmarkNot {
+    padding-left: 95%;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+/* Küçük ekranlar için stiller */
+@media screen and (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        margin: 8px;
+        position: relative;
+    }
+
+    .header .more {
+        width: 100%;
+        position: static;
+        top: 0;
+        left: 0;
+        padding: 0px 0;
+        display: none;
+    }
+
+    .postArea .postContainer .post {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        padding: 8px;
+        margin: 4px;
+
+    }
+
+    .header .search {
+        padding: 8px;
+        margin-top: 50px;
+        display: none;
+    }
+
+    .post .postContainer .postTop .profilimg img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .post .postContainer .postTop .postimg img {
+        width: 350px;
+        margin-left: 50px;
+    }
+
+    .str {
+        margin: 10px;
+    }
+
+    .str .img1 img {
+        max-height: 350px;
+    }
+
+    .messagePage .messageImg {
+        height: 70px;
+        width: 15%;
+    }
+}
