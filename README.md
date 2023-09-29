@@ -8,18 +8,13 @@
 
 <h1>Pages</h1>
 
-![5](https://github.com/tilbe/social-Media-memories/assets/125744380/2258fe64-5e34-4ad5-8d8c-f0727fab52b8)
+[5](https://github.com/tilbe/social-Media-memories/assets/125744380/77ac3085-f4a5-4155-a532-bc9d918da88b)
+![4](https://github.com/tilbe/social-Media-memories/assets/125744380/a98ecd4b-e267-4c04-a88e-e529da49bfd3)
+![3](https://github.com/tilbe/social-Media-memories/assets/125744380/bab3499b-2b93-4480-9fba-c1bed7a4ac3f)
+![2](https://github.com/tilbe/social-Media-memories/assets/125744380/823c7b5c-6ed3-4434-bcf6-c829b253621d)
+![1](https://github.com/tilbe/social-Media-memories/assets/125744380/0902b95f-9c66-4266-a9a0-11ffe71d0a58)
 
-![4](https://github.com/tilbe/social-Media-memories/assets/125744380/80758b5b-99ba-415a-8208-cdc4a42dd399)
+<h1>🎥Video</h1>!
 
-![3](https://github.com/tilbe/social-Media-memories/assets/125744380/c40db55b-ce96-4b9c-be4a-839d68cea612)
-
-![2](https://github.com/tilbe/social-Media-memories/assets/125744380/7440f7a9-70b3-4300-ba8b-d8495b3715e2)
-
-![1](https://github.com/tilbe/social-Media-memories/assets/125744380/d54b87ef-e60d-442d-924d-8fb6a6bea393)
-
-
-<h1>🎥Video</h1>
-
-https://github.com/tilbe/social-Media-memories/assets/125744380/8cc120ee-ed67-4b70-af09-56e996234c13
+https://github.com/tilbe/social-Media-memories/assets/125744380/c7e8fd8f-b7d6-43b0-a9d5-4c86e380f276
 
