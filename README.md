@@ -1,6 +1,10 @@
 <h1>🖊️App Preview</h1>
 
+<p>
+ChatGPT
+I would like to share the "Social Media Website" project I created to enhance my web development skills. In this project, I built a comprehensive, impressive, and interactive website using HTML, CSS, JavaScript, along with technologies like jQuery and Ajax.
 
+The core of my project relied on the effective use of JavaScript, jQuery, and Ajax. I used these technologies to process data dynamically, ensuring that users have a smooth experience. Additionally, I created an interface that allows users to share posts, send messages, and navigate seamlessly.</p>
 
 
 
